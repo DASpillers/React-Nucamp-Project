@@ -15,7 +15,7 @@ function Footer(props) {
                             <li><Link to="/contactus">Contact</Link></li>
                         </ul>
                     </div>
-                    <div clasName="col-6 col-sm-3 text-center">
+                    <div className="col-6 col-sm-3 text-center">
                         <h5>Social</h5>
                             <a className="btn btn-social-icon btn-instagram" href="http://instagram.com/"><i className="fa fa-instagram" /></a>{' '}
                             <a className="btn btn-social-icon btn-facebook" href="http://www.facebook.com/"><i className="fa fa-facebook" /></a>{' '}
